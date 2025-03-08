@@ -1,29 +1,63 @@
 ### Hi there 👋 Welcome
 
-I'm an experienced Software Engineer with a demonstrated history of working in the information technology and services industry. Strong engineering professional skilled in Management, Node JS, NestJS, React JS and Angular.
+I'm an experienced Software Engineer with a demonstrated history of working in the information technology and services industry. Strong engineering professional skilled in **Management, Node.js, NestJS, React.js, and Angular**.
 
-As a tech enthusiast, I possess extensive skills in JavaScript-based frameworks and am particularly interested in frameworks such as Angular and Node. However, I am not limited to these and am always open to exploring and acquiring new technical specialities.
+As a tech enthusiast, I possess extensive skills in JavaScript-based frameworks and am particularly interested in frameworks such as Angular and Node.js. However, I am not limited to these and am always open to exploring and acquiring new technical specialities.
 
-### Skills:
-NodeJS | NestJS | Fastify | ReactJS | Angular | Python | C#
+---
 
-🔭 I’m currently working on C# and Node JS environment.
+## 🚀 About Me
+- 🔭 I’m currently working on **C# and Node.js environments**.
+- 🎓 I have completed my **MSc in Data Science**.
+- 💬 Ask me about **JavaScript (Node.js, React, NestJS), Python, AI, and Cloud**.
+- ⚡ Fun fact: I love **solving complex problems and automating workflows**.
 
-🌱 I’m currently studying Data science MSc
+---
 
-📫 How to reach me: [linkedin](https://www.linkedin.com/in/lasantha-lakmal/)
+## 🛠️ Skills
+**Languages & Frameworks:**  
+Node.js | Express.js | NestJS | Fastify | TypeScript | React.js | Angular | Python | FastAPI |Flask | Django | C#
 
-<!--
-**lasalasa/lasalasa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Databases:**  
+MongoDB | MySQL| PostgreSQL | Firebase | Redis
 
-Here are some ideas to get you started:
+**Cloud & DevOps:**  
+AWS | Google Cloud | Docker | Kubernetes | CI/CD (GitHub Actions, Jenkins) | Terraform
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Technologies & Tools:**  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+![Lakmal's GitHub stats](https://github-readme-stats.vercel.app/api?username=lasalasa&show_icons=true&theme=radical)
+
+## 📌 Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lasalasa&layout=compact&theme=radical)
+
+## 🔥 GitHub Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lasalasa&theme=radical)
+
+## 🏆 Achievements & Badges
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=lasalasa&theme=radical)
+
+---
+
+## 📬 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/lasantha-lakmal/)
+
+📧 Email: [lasanthaslakmal@gmail.com](mailto:lasanthaslakmal@gmail.com)
+
+---
+
+⭐ **If you like my work, feel free to star some repositories and connect!** 😊🚀
