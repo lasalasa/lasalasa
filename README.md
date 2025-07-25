@@ -19,7 +19,7 @@ As a tech enthusiast, I possess extensive skills in JavaScript-based frameworks 
 Node.js | Express.js | NestJS | Fastify | TypeScript | React.js | Python | FastAPI |Flask | Django | C# | Angular
 
 **Databases:**  
-MongoDB | MySQL| PostgreSQL | MSSQL |Firebase | Redis
+MongoDB | MySQL | PostgreSQL | MSSQL | Firebase | Redis
 
 **Cloud & DevOps:**  
 AWS | Google Cloud | Docker | Kubernetes | CI/CD (GitHub Actions, Jenkins) | Terraform
