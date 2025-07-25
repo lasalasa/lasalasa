@@ -53,6 +53,18 @@ AWS | Google Cloud | Docker | Kubernetes | CI/CD (GitHub Actions, Jenkins) | Ter
 
 ---
 
+## 📦 NPM Packages
+
+Here are some useful tools I’ve published on [npmjs.com](https://www.npmjs.com/~lasantha-b):
+
+<!--START_NPM_PACKAGES-->
+<!--NPM package data will be inserted here-->
+<!--END_NPM_PACKAGES-->
+
+> ✨ More packages coming soon. Follow me on [npm](https://www.npmjs.com/~lasantha-b) to stay updated!
+
+---
+
 ## 📬 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/lasantha-lakmal/)
 
