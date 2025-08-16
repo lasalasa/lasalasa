@@ -1,15 +1,15 @@
 ### Hi there 👋 Welcome
 
-I'm an experienced Software Engineer with a demonstrated history of working in the information technology and services industry. Strong engineering professional skilled in **Management, Node.js, NestJS, React.js, and Angular**.
+I'm an experienced Software Engineer with a demonstrated history of working in the information technology and services industry. Strong engineering professional skilled in **Node.js, NestJS, React.js, Angular, C# and Python**.
 
-As a tech enthusiast, I possess extensive skills in JavaScript-based frameworks and am particularly interested in frameworks such as Angular and Node.js. However, I am not limited to these and am always open to exploring and acquiring new technical specialities.
+As a tech enthusiast, I possess extensive skills in JavaScript-based frameworks and am particularly interested in frameworks such as NestJS and Node.js. However, I am not limited to these and am always open to exploring and acquiring new technical specialities.
 
 ---
 
 ## 🚀 About Me
 - 🔭 I’m currently working on **C# and Node.js environments**.
 - 🎓 I have completed my **MSc in Data Science**.
-- 💬 Ask me about **JavaScript (Node.js, React, NestJS), Python, AI, and Cloud**.
+- 💬 Ask me about **JavaScript (Node.js, React, NestJS), C#, Python, AI, and Cloud**.
 - ⚡ Fun fact: I love **solving complex problems and automating workflows**.
 
 ---
