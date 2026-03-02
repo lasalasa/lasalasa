@@ -62,14 +62,14 @@ AWS | Google Cloud | Docker | Kubernetes | CI/CD (GitHub Actions, Jenkins) | Ter
 
 ---
 
-## 📊 GitHub Stats
+<!-- ## 📊 GitHub Stats -->
 
-<div align="center">
+<!-- <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=lasalasa&show_icons=true&theme=radical" alt="Lakmal's GitHub stats" height="180" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lasalasa&layout=compact&theme=radical" alt="Top Languages" height="180" />
 
-</div>
+</div> -->
 
 ### 🔥 GitHub Streak
 <div align="center">
@@ -78,12 +78,12 @@ AWS | Google Cloud | Docker | Kubernetes | CI/CD (GitHub Actions, Jenkins) | Ter
 
 </div>
 
-### 🏆 Achievements & Badges
-<div align="center">
+<!--  ### 🏆 Achievements & Badges -->
+<!-- <div align="center">
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=lasalasa&theme=radical&no-frame=true&row=1)
 
-</div>
+</div> -->
 
 ### 📈 Contribution Graph
 <div align="center">
