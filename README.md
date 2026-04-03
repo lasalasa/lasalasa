@@ -71,12 +71,13 @@ AWS | Google Cloud | Docker | Kubernetes | CI/CD (GitHub Actions, Jenkins) | Ter
 
 </div> -->
 
-### 🔥 GitHub Streak
+<!-- ### 🔥 GitHub Streak
 <div align="center">
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lasalasa&theme=radical)
 
 </div>
+-->
 
 <!--  ### 🏆 Achievements & Badges -->
 <!-- <div align="center">
@@ -85,13 +86,13 @@ AWS | Google Cloud | Docker | Kubernetes | CI/CD (GitHub Actions, Jenkins) | Ter
 
 </div> -->
 
-### 📈 Contribution Graph
+<!-- ### 📈 Contribution Graph
 <div align="center">
 
 [![Lakmal's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lasalasa&theme=redical)](https://github.com/lasalasa)
 
 </div>
-
+-->
 ---
 
 ## 📦 NPM Packages
