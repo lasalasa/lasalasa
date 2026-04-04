@@ -2,10 +2,11 @@
 
 ### Hi there 👋 Welcome
 
+<!--
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Experienced+Software+Engineer;Node.js+%7C+NestJS+%7C+React+%7C+C%23+%7C+Python;MSc+in+Data+Science;Always+learning+new+things" alt="Typing SVG" /></a>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=lasalasa&color=blueviolet&style=flat-square)
-
+-->
 </div>
 
 I'm an experienced Software Engineer with a demonstrated history of working in the information technology and services industry. Strong engineering professional skilled in **Node.js, NestJS, React.js, Angular, C# and Python**.
